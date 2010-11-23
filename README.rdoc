@@ -4,8 +4,6 @@ The Twilio gem provides two major pieces of functionality: (1) a Ruby wrapper fo
 
 See http://www.twilio.com/docs/index for Twilio's API documentation.
 
-For an overview of the Twilio Gem and a sample use case, check out http://www.webficient.com/2009/06/22/hello-this-is-your-rails-app-calling-you.
-
 == Calling the Twilio REST API
 
 First set your credentials by calling the connect method:
@@ -42,10 +40,8 @@ If you need to tweak the source code, clone this repository and do a rake build 
 
 == Copyright
 
-Copyright (c) 2009 Phil Misiowiec, Webficient LLC. See LICENSE for details.
+Copyright (c) 2009-2010 Phil Misiowiec, Webficient LLC. See LICENSE for details.
 
 == Contributors
 
-Kyle Daigle
-Jonathan Rudenberg
-Alex K Wolfe
+Kyle Daigle, Yuri Gadow, Jonathan Rudenberg, Jeff Wigal, Alex K Wolfe
